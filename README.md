@@ -1,0 +1,3 @@
+collectiveIntelligence
+======================
+Collective intelligence
